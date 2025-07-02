@@ -67,4 +67,10 @@ This project serves as a portfolio piece to showcase proficiency in Excel-based 
 * **Dashboarding:** Creating visually appealing, interactive reports using charts and slicers
 * **Excel Proficiency:** Mastery of core Excel tools for business analytics
 
+## Clean Dataset:
+  Link:https://github.com/Afsha22/EXCEL/blob/main/COMPLETE%20BIKE%20DASHBOARD.xlsx
+
+## Dashboard:
+link:https://github.com/Afsha22/EXCEL/blob/main/Dashboard%20(3).png
+
 
